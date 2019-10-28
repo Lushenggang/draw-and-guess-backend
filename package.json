@@ -1,0 +1,9 @@
+{
+  "name": "draw-and-guess-backend",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "dependencies": {
+    "nodejs-websocket": "^1.7.2"
+  }
+}
