@@ -6,9 +6,6 @@ class CPlayer {
     this.avatar = ''
     this.username = ''
   }
-  enterRoom (rid) {
-    // 
-  }
   info () {
     return {
       id: this.id,
